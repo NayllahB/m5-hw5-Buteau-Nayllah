@@ -36,9 +36,9 @@ nav {
     padding: 10px;
 }
 
-nav a{
+nav a {
     color: #162a2c;
-    margin: 0 auto;
+    margin: 0 5px;
     text-decoration: none;
     font-weight: bold;
     text-transform: uppercase;
